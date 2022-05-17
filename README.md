@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UkaPutra
 - 👀 I’m interested in u
 - 🌱 I’m currently learning to love u
-- 💞️ I’m looking to collaborate on Tesla, Inc.
+- 💞️ I’m looking to collaborate on [Tesla, Inc.](https://www.tesla.com) & [SpaceX](https://www.spacex.com)
 - 📫 How to reach me [Uka Putra](https://www.instagram.com/ukaaptr)
 
 <!---
